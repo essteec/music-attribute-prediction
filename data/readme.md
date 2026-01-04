@@ -1,0 +1,1 @@
+Download the dataset from [here](https://www.kaggle.com/datasets/serkantysz/550k-spotify-songs-audio-lyrics-and-genres).
